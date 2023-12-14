@@ -435,7 +435,7 @@ footer .copyright {
   flex-grow: 1;
 }
 
-@media only screen and (min-width: 380px) and (max-width: 600px) , (orientation: portrait) {
+@media only screen and (min-width: 380px) and (max-width: 600px){
   footer .content {
     font-size: .625rem;
   }
